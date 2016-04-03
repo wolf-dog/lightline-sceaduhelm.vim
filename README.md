@@ -6,7 +6,7 @@ Vim colorscheme [sceaduhelm.vim](https://github.com/wolf-dog/sceaduhelm.vim) is 
 
 ## Screenshot
 
-![](http://lupus.mydns.jp/assets/media/lightline-sceaduhelm_vim.png)
+![](http://to-mega-therion.net/assets/media/lightline-sceaduhelm_vim.png)
 
 ## Installation
 
