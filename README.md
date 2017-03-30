@@ -13,8 +13,3 @@ Vim colorscheme [sceaduhelm.vim](https://github.com/wolf-dog/sceaduhelm.vim) is 
 Copy lightline-sceaduhelm.vim to your .vim/plugin directory, then put into your .vimrc:
 
     let g:lightline = { 'colorscheme': 'sceaduhelm' }
-
-## Licence
-
-MIT Licence.
-
